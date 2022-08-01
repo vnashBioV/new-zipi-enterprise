@@ -1,6 +1,23 @@
-.App {
-  text-align: center;
+body{
+  background: #F2F2F2;
 }
+.app {
+  background: #F2F2F2;
+}
+
+/* Global styles */
+h1, h2, h3, h4{
+  font-size: 15px;
+  padding: 0;
+  margin: 3px 0;
+}
+p{
+  margin: 0;
+  padding: 0;
+  font-size: 13.5px;
+  margin-bottom: 3px;
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +53,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* @media only screen and (min-width: 1400px) {
+  .modal > div > select{
+    width: 35.5%;
+  }
+} */
+ /* delivery agent to fleet owners */
